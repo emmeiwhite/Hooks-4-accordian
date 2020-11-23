@@ -1,0 +1,10 @@
+.section-wrapper {
+  min-height: 500px;
+  width: 900px;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: 2fr 5fr;
+  margin: 4rem auto;
+  border-radius: 0.5rem;
+  padding: 3rem 2rem;
+}

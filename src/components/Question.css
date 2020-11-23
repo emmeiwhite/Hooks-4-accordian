@@ -1,0 +1,9 @@
+.question-answer-card {
+  box-shadow: 2px 2px 4px #ccc;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.question {
+  display: flex;
+  justify-content: space-between;
+}
