@@ -16,7 +16,7 @@ const Question = ({ title, info, id }) => {
           )}
         </div>
       </div>
-      {isClicked && <div>{info}</div>}
+      {isClicked && <div className="question-info">{info}</div>}
     </article>
   );
 };
